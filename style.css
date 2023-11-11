@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(122, 105, 83);
+}
+.t{
+    text-align: center;
+    color: blanchedalmond;
+}
+.b{
+    color: blanchedalmond;
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+img{
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    border: 5px double blanchedalmond;
+}
+img:hover{
+    opacity: 1;
+    border: 6px solid blanchedalmond;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
+main{
+    color: blanchedalmond;
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+main:hover{
+    background-color: rgb(110, 80, 69);
+    transition: 0.5s ease-out;
+    padding: 5px;
+    border: 7px dotted blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+footer{
+    background-color: coral;
+}
